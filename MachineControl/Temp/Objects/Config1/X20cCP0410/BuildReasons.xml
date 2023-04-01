@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20ccp0410\program\init.st.c">
+    <BuildReason>Target "init.st.c" does not exist</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20ccp0410\program\init.st.o">
+    <BuildReason>Target "init.st.o" does not exist</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20ccp0410\program\_bur_pvdef.st.c">
+    <BuildReason>Target "_bur_pvdef.st.c" does not exist</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20ccp0410\program\_bur_pvdef.st.o">
+    <BuildReason>Target "_bur_pvdef.st.o" does not exist</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20ccp0410\program\a.out">
+    <BuildReason>Target "a.out" does not exist</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20ccp0410\program\program.ox">
+    <BuildReason>Target "program.ox" does not exist</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20ccp0410\program.br">
+    <BuildReason>Target "program.br" does not exist</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\config1\x20ccp0410\transfer.lst">
+    <BuildReason>Newest Prerequisite 2023-03-27 19:14:56 newer than target 2023-03-27 19:02:37.
+</BuildReason>
+  </Rule>
+</BuildReasons>

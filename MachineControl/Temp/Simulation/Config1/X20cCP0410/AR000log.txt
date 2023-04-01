@@ -1,0 +1,21 @@
+Sat Apr  1 10:52:14 2023
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Sat Apr  1 10:52:14 2023
+No ARsim registration found!
+
+Sat Apr  1 10:52:14 2023
+InstanceName: 0000013a50e1c309
+
+Sat Apr  1 10:52:14 2023
+WorkingDirectory: G:\AutomationProjects\BnR\Training\MachineControl\MachineControl\Temp\Simulation\Config1\X20cCP0410\
+
+Sat Apr  1 10:52:14 2023
+COMMAND_COLDSTART
+
+Sat Apr  1 10:52:17 2023
+Version: B4.93
+
+Sat Apr  1 12:39:20 2023
+COMMAND_TERMINATE
+

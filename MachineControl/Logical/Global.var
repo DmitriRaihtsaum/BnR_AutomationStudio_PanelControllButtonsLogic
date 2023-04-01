@@ -1,0 +1,3 @@
+VAR
+	DeviceModeControll : tyPushButtonsControl;
+END_VAR
